@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1",
+      "datetime": "aug 08",
+      "body": "textyfg"
+    },
+    {
+      "id": "2",
+      "title": "Post 1",
+      "datetime": "aug 08",
+      "body": "textyfg"
+    },
+    {
+      "id": "21",
+      "title": "gvfdgvdf",
+      "datetime": "Oct 03, 2024 3:45:49 PM",
+      "body": "fdgdfg"
+    },
+    {
+      "id": "211",
+      "title": "hello",
+      "datetime": "Oct 03, 2024 3:47:43 PM",
+      "body": "gfdffgf"
+    }
+  ]
+}
